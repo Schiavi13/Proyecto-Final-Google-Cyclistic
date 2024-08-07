@@ -1,8 +1,0 @@
-# Changelog
-Este archivo contiene los cambios realizados a los datos
-
-2024-07-02
-## Cambia
-    - Ordena los datos por campo "started_at"
-    - Remueve registros sin campo "member_casual"
-    
