@@ -6,8 +6,12 @@ Este archivo contiene los cambios realizados a los datos
     - Ordena los datos por campo "started_at"
     - Remueve registros sin campo "member_casual"
 
-2024-11-19
+2024-11-17
 ## Cambia
     - Remueve registros en blanco
     - Remueve registros con campos "start_station_name" y "start_station_id" en blanco
     - Remueve registros con campos "end_station_name" y "end_station_id" en blanco
+
+2024-11-19
+## Nuevo
+    - Agrega columna "ride_length" la cual muestra el tiempo del viaje
