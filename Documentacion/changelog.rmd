@@ -15,3 +15,4 @@ Este archivo contiene los cambios realizados a los datos
 2024-11-19
 ## Nuevo
     - Agrega columna "ride_length" la cual muestra el tiempo del viaje
+    - Agrega columna "day_of_week" la cual muestra el dia de la semana
