@@ -21,3 +21,8 @@ Este archivo contiene los cambios realizados a los datos
 ## Cambia
     - Modifica el formato de la columna "ride_length" para mostrar solo 
       los minutos transcurridos en formato de texto
+
+2024-12-02
+## Carga
+    - Carga los archivos a BigQuery como tablas independientes en el dataset 
+      "capstone_project_data"
