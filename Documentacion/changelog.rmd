@@ -26,3 +26,7 @@ Este archivo contiene los cambios realizados a los datos
 ## Carga
     - Carga los archivos a BigQuery como tablas independientes en el dataset 
       "capstone_project_data"
+
+## Nuevo
+    - Consolida los datos de todos los archivos en una tabla de BigQuery llamada 
+      "consolidado_junio2023_mayo2024_raw" mediante SQL (sin remover duplicados)
