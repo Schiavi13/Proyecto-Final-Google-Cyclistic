@@ -38,3 +38,7 @@ Este archivo contiene los cambios realizados a los datos
 2025-01-02
 ## Cambia
     - Cambia el formato de "ride_length" de minutos a segundos
+
+2025-01-03
+## Carga
+    - Carga los archivos a BigQuery con correcciones
