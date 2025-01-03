@@ -34,3 +34,7 @@ Este archivo contiene los cambios realizados a los datos
 2024-12-24
 ## Cambia
     - Remueve registros donde "ended_at" es menor que "started_at"
+
+2025-01-02
+## Cambia
+    - Cambia el formato de "ride_length" de minutos a segundos
