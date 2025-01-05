@@ -42,3 +42,8 @@ Este archivo contiene los cambios realizados a los datos
 2025-01-03
 ## Carga
     - Carga los archivos a BigQuery con correcciones
+
+2025-01-04
+## Cambia
+    - Remueve espacios en blanco de columnas string en BigQuery
+    - Transforma columnas string a solo minúsculas en BigQuery

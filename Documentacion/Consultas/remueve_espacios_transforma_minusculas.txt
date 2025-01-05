@@ -1,0 +1,17 @@
+-- Remueve espacios en blanco extra y transforma cadenas de texto a minusculas
+SELECT 
+  TRIM(LOWER(rideable_type)) AS rideable_type,
+  started_at,
+  ended_at,
+  TRIM(LOWER(start_station_name)) AS start_station_name,
+  TRIM(start_station_id) AS start_station_id,
+  TRIM(LOWER(end_station_name)) AS end_station_name,
+  TRIM(end_station_id) AS end_station_id,
+  start_lat,
+  start_lng,
+  end_lat,
+  end_lng,
+  TRIM(LOWER(member_casual)) AS member_casual,
+  ride_length,
+  day_of_week
+FROM `upheld-beach-424613-b9.capstone_project_data.consolidado_junio2023_mayo2024_raw`;
