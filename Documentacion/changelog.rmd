@@ -51,3 +51,6 @@ Este archivo contiene los cambios realizados a los datos
 2025-01-05
 ## Cambia
     - Remueve los registros con "ride_length" igual a cero
+
+## Carga
+    - Carga los archivos a BigQuery con correcciones
