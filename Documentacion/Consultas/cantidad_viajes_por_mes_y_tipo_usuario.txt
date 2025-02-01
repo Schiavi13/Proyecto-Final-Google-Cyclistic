@@ -1,0 +1,4 @@
+SELECT  EXTRACT(MONTH FROM started_at) AS mes_n,FORMAT_DATETIME('%B', started_at) AS mes, member_casual AS tipo_usuario, COUNT(*) AS cantidad_viajes
+FROM `upheld-beach-424613-b9.capstone_project_data.consolidado_junio2023_mayo2024_transformed`
+GROUP BY mes_n, mes, tipo_usuario
+ORDER BY mes_n, mes, tipo_usuario;

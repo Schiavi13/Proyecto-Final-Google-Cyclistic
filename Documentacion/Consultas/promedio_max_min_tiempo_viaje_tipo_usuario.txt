@@ -1,0 +1,5 @@
+SELECT member_casual AS tipo_usuario, FLOOR(AVG(ride_length/60)) AS promedio_minutos, FLOOR((AVG(ride_length/60)-FLOOR(AVG(ride_length/60)))*60) AS p_segundos,
+FLOOR(MAX(ride_length/60)) AS max_minutos, FLOOR((MAX(ride_length/60)-FLOOR(MAX(ride_length/60)))*60) AS max_segundos, 
+FLOOR(MIN(ride_length/60)) AS min_minutos, FLOOR((MIN(ride_length/60)-FLOOR(MIN(ride_length/60)))*60) AS min_segundos
+FROM `capstone_project_data.consolidado_junio2023_mayo2024_transformed`
+GROUP BY tipo_usuario;
