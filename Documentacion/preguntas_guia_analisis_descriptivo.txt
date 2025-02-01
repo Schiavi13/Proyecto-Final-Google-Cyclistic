@@ -1,0 +1,52 @@
+Preguntas guía para el análisis descriptivo:
+Estas preguntas se formulan solo como guía, no se responderán explícitamente en este documento.
+•	¿Qué tipo de usuario utiliza con más frecuencia el servicio por mes? *
+•	¿Qué tipo de usuario utiliza con más frecuencia el servicio en todo el dataset? *
+•	¿Cuál es el tiempo de viaje promedio por mes de todos los usuarios? *
+•	¿Cuál es el tiempo de viaje promedio por mes de los usuarios miembros y casuales? *
+•	¿Cuál es el tiempo de viaje promedio en todo el dataset? *
+•	¿Cuál es el tiempo de viaje promedio en todo el dataset de los usuarios miembros y casuales? *
+•	¿Qué duración tuvo el viaje más extenso en tiempo de cada mes? *
+•	¿Qué duración tuvo el viaje más extenso en tiempo de cada mes de usuarios miembros y casuales? *
+•	¿Qué duración tuvo el viaje menos extenso en tiempo de cada mes? *
+•	¿Qué duración tuvo el viaje menos extenso en tiempo de cada mes de usuarios miembros y casuales? *
+•	¿Qué duración tuvo el viaje más extenso en tiempo de todo el dataset? *
+•	¿Qué duración tuvo el viaje más extenso en tiempo de todo el dataset de usuarios miembros y casuales? *
+•	¿Qué duración tuvo el viaje menos extenso en tiempo de todo el dataset? *
+•	¿Qué duración tuvo el viaje menos extenso en tiempo de todo el dataset de usuarios miembros y casuales? *
+•	¿Cuál es el día de la semana en que más se utiliza el servicio?
+•	¿Cuál es el día de la semana en qué más utilizan el servicio los usuarios miembros y casuales?
+•	¿Cuál es el día de la semana en que menos se utiliza el servicio?
+•	¿Cuál es el día de la semana en que menos utilizan el servicio los usuarios miembros y casuales?
+•	¿Cuál es el tiempo de viaje promedio por día?
+•	¿Cuál es el tiempo de viaje promedio por día de usuarios miembros y casuales?
+•	¿Cuántos viajes se realizan por día?
+•	¿Cuántos viajes realizan por día los usuarios miembros y los casuales?
+•	¿Qué tipo de bicicleta es la que más se usa?
+•	¿Qué tipo de bicicleta es la que más usan los usuarios miembros y casuales?
+•	¿Qué tipo de bicicleta es la que menos se usa?
+•	¿Qué tipo de bicicleta es la que menos usan los usuarios miembros y casuales?
+•	¿Cuál es la distancia más larga recorrida en un solo viaje en cada mes?
+•	¿Cuál es la distancia más larga recorrida en un solo viaje en cada mes de los usuarios miembros y casuales?
+•	¿Cuál es la distancia más corta recorrida en un solo viaje en cada mes?
+•	¿Cuál es la distancia más corta recorrida en un solo viaje en cada mes de los usuarios miembros y casuales?
+•	¿Cuál es la distancia más larga recorrida en un solo viaje en todo el dataset?
+•	¿Cuál es la distancia más larga recorrida en un solo viaje en todo el dataset de los usuarios miembros y casuales?
+•	¿Cuál es la distancia más corta recorrida en un solo viaje en todo el dataset?
+•	¿Cuál es la distancia más corta recorrida en un solo viaje en todo el dataset de los usuarios miembros y casuales?
+•	¿Cuál es la distancia promedio recorrida en cada mes?
+•	¿Cuál es la distancia promedio recorrida en cada mes por los usuarios miembros y casuales?
+•	¿Cuál es la distancia promedio recorrida en todo el dataset?
+•	¿Cuál es la distancia promedio recorrida en todo el dataset por usuarios miembros y casuales?
+•	¿Cuál es la estación más utilizada por mes?
+•	¿Cuál es la estación más utilizada por mes por los usuarios miembros y casuales?
+•	¿Cuál es la estación más utilizada en todo el dataset?
+•	¿Cuál es la estación más utilizada en todo el dataset por usuarios miembros y casuales?
+•	¿Cuál es la ruta más utilizada por mes?
+•	¿Cuál es la ruta más utilizada por mes por los usuarios miembros y casuales?
+•	¿Cuál es la ruta más utilizada en todo el dataset?
+•	¿Cuál es la ruta más utilizada en todo el dataset por usuarios miembros y casuales?
+•	¿Cuál es la ruta menos utilizada por mes?
+•	¿Cuál es la ruta menos utilizada por mes por los usuarios miembros y casuales?
+•	¿Cuál es la ruta menos utilizada en todo el dataset?
+•	¿Cuál es la ruta menos utilizada en todo el dataset por usuarios miembros y casuales?
