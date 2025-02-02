@@ -58,3 +58,7 @@ Este archivo contiene los cambios realizados a los datos
 ## Cambia
     - Remueve espacios en blanco de columnas string en BigQuery
     - Transforma columnas string a solo minúsculas en BigQuery
+
+2025-02-01
+## Cambia
+    - Modifica parámetro de función de day_of_week por started_at
