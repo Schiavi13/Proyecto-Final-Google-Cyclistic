@@ -62,3 +62,7 @@ Este archivo contiene los cambios realizados a los datos
 2025-02-01
 ## Cambia
     - Modifica parámetro de función de day_of_week por started_at
+
+2025-02-02
+## Carga
+    - Carga los archivos a BigQuery con correcciones
