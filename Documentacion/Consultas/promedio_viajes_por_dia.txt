@@ -1,0 +1,5 @@
+SELECT FLOOR(AVG(cantidad.cantidad_viajes)) AS promedio_viajes
+FROM
+(SELECT EXTRACT(DATE FROM started_at) AS fecha, COUNT(*) AS cantidad_viajes
+FROM `upheld-beach-424613-b9.capstone_project_data.consolidado_junio2023_mayo2024_transformed`
+GROUP BY fecha) AS cantidad;

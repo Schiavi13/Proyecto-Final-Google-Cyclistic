@@ -1,0 +1,4 @@
+SELECT day_of_week AS dia_n, FORMAT_TIMESTAMP('%A', started_at) AS dia, member_casual AS tipo_usuario, COUNT(*) AS cantidad_viajes
+FROM `upheld-beach-424613-b9.capstone_project_data.consolidado_junio2023_mayo2024_transformed`
+GROUP BY dia_n, dia, tipo_usuario
+ORDER BY dia_n, dia, tipo_usuario;

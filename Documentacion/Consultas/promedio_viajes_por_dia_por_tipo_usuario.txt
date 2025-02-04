@@ -1,0 +1,6 @@
+SELECT cantidad.tipo_usuario AS tipo_usuario, FLOOR(AVG(cantidad.cantidad_viajes)) AS promedio_viajes
+FROM
+(SELECT EXTRACT(DATE FROM started_at) AS fecha, member_casual AS tipo_usuario, COUNT(*) AS cantidad_viajes
+FROM `upheld-beach-424613-b9.capstone_project_data.consolidado_junio2023_mayo2024_transformed`
+GROUP BY fecha, tipo_usuario) AS cantidad
+GROUP BY tipo_usuario;

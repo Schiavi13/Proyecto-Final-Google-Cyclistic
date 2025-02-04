@@ -14,14 +14,14 @@ Estas preguntas se formulan solo como guía, no se responderán explícitamente 
 •	¿Qué duración tuvo el viaje más extenso en tiempo de todo el dataset de usuarios miembros y casuales? *
 •	¿Qué duración tuvo el viaje menos extenso en tiempo de todo el dataset? *
 •	¿Qué duración tuvo el viaje menos extenso en tiempo de todo el dataset de usuarios miembros y casuales? *
-•	¿Cuál es el día de la semana en que más se utiliza el servicio?
-•	¿Cuál es el día de la semana en qué más utilizan el servicio los usuarios miembros y casuales?
-•	¿Cuál es el día de la semana en que menos se utiliza el servicio?
-•	¿Cuál es el día de la semana en que menos utilizan el servicio los usuarios miembros y casuales?
-•	¿Cuál es el tiempo de viaje promedio por día?
-•	¿Cuál es el tiempo de viaje promedio por día de usuarios miembros y casuales?
-•	¿Cuántos viajes se realizan por día?
-•	¿Cuántos viajes realizan por día los usuarios miembros y los casuales?
+•	¿Cuál es el día de la semana en que más se utiliza el servicio? *
+•	¿Cuál es el día de la semana en qué más utilizan el servicio los usuarios miembros y casuales?*
+•	¿Cuál es el día de la semana en que menos se utiliza el servicio? *
+•	¿Cuál es el día de la semana en que menos utilizan el servicio los usuarios miembros y casuales?*
+•	¿Cuál es el tiempo de viaje promedio por día? *
+•	¿Cuál es el tiempo de viaje promedio por día de usuarios miembros y casuales? *
+•	¿Cuántos viajes se realizan por día? *
+•	¿Cuántos viajes realizan por día los usuarios miembros y los casuales? *
 •	¿Qué tipo de bicicleta es la que más se usa?
 •	¿Qué tipo de bicicleta es la que más usan los usuarios miembros y casuales?
 •	¿Qué tipo de bicicleta es la que menos se usa?
