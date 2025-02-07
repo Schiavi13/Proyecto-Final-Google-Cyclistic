@@ -22,22 +22,10 @@ Estas preguntas se formulan solo como guía, no se responderán explícitamente 
 •	¿Cuál es el tiempo de viaje promedio por día de usuarios miembros y casuales? *
 •	¿Cuántos viajes se realizan por día? *
 •	¿Cuántos viajes realizan por día los usuarios miembros y los casuales? *
-•	¿Qué tipo de bicicleta es la que más se usa?
+•	¿Qué tipo de bicicleta es la que más se usa? *
 •	¿Qué tipo de bicicleta es la que más usan los usuarios miembros y casuales?
 •	¿Qué tipo de bicicleta es la que menos se usa?
 •	¿Qué tipo de bicicleta es la que menos usan los usuarios miembros y casuales?
-•	¿Cuál es la distancia más larga recorrida en un solo viaje en cada mes?
-•	¿Cuál es la distancia más larga recorrida en un solo viaje en cada mes de los usuarios miembros y casuales?
-•	¿Cuál es la distancia más corta recorrida en un solo viaje en cada mes?
-•	¿Cuál es la distancia más corta recorrida en un solo viaje en cada mes de los usuarios miembros y casuales?
-•	¿Cuál es la distancia más larga recorrida en un solo viaje en todo el dataset?
-•	¿Cuál es la distancia más larga recorrida en un solo viaje en todo el dataset de los usuarios miembros y casuales?
-•	¿Cuál es la distancia más corta recorrida en un solo viaje en todo el dataset?
-•	¿Cuál es la distancia más corta recorrida en un solo viaje en todo el dataset de los usuarios miembros y casuales?
-•	¿Cuál es la distancia promedio recorrida en cada mes?
-•	¿Cuál es la distancia promedio recorrida en cada mes por los usuarios miembros y casuales?
-•	¿Cuál es la distancia promedio recorrida en todo el dataset?
-•	¿Cuál es la distancia promedio recorrida en todo el dataset por usuarios miembros y casuales?
 •	¿Cuál es la estación más utilizada por mes?
 •	¿Cuál es la estación más utilizada por mes por los usuarios miembros y casuales?
 •	¿Cuál es la estación más utilizada en todo el dataset?

@@ -1,0 +1,6 @@
+SELECT  member_casual AS tipo_usuario, rideable_type AS tipo_bicicleta, COUNT(*) cantidad_viajes, 
+COUNT(*)*100/SUM(COUNT(*)) OVER(PARTITION BY member_casual) AS porcentaje_tipo_usuario, 
+COUNT(*)*100/SUM(COUNT(*)) OVER() AS porcentaje_total
+FROM `upheld-beach-424613-b9.capstone_project_data.consolidado_junio2023_mayo2024_transformed`
+GROUP BY tipo_usuario, tipo_bicicleta
+ORDER BY tipo_usuario, tipo_bicicleta, cantidad_viajes DESC;

@@ -1,0 +1,3 @@
+SELECT  rideable_type AS tipo_bicicleta, COUNT(*) cantidad_viajes
+FROM `upheld-beach-424613-b9.capstone_project_data.consolidado_junio2023_mayo2024_transformed`
+GROUP BY tipo_bicicleta;
