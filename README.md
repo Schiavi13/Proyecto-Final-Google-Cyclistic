@@ -35,6 +35,9 @@ En el sitio de descarga, se buscan los archivos comprimidos con la convención d
 
 ## Análisis de Datos
 
+### [Interactúa en Línea](https://public.tableau.com/app/profile/luis.mart.nez1450/viz/GooglecapstoneprojectCyclistic/Dashboard1)
+![Tablero](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_tablero.png)
+
 ### Estadísticas Anuales
 
 #### Totales
