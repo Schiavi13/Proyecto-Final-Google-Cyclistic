@@ -41,18 +41,29 @@ En el sitio de descarga, se buscan los archivos comprimidos con la convención d
 ![kpi_total](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_kpi_total.png)
 <br/>
 ![bar_plot_totales](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_cantiad_total_viajes_tipo_usuario.png)
+<br/>
+<br/>
+Aproximadamente 1/3 del total de viajes los realizaron usuarios casuales.
 
 #### Usuarios Miembros
 ![kpi_miembros](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_kpi_miembros.png)
 
 #### Usuarios Casuales
 ![kpi_csuales](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_kpi_casuales.png)
+<br/>
+En promedio, los viajes de usuarios casuales fueron el doble de extensos que los viajes de los usuarios miembros.
 
 ### Uso Anual del Servicio
 ![uso_anual](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_cantidad_viajes_fecha_tipo_usuario.png)
+<br/>
+El 50.9% de los viajes de los usuarios casuales se realizaron durante el verano (Norteamérica).
 
 ### Promedio de Viajes por Día
 ![promedio_viajes_dia](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_promedio_viajes_dia_tipo_usuario.png)
+<br/>
+Los usuarios miembros utilizaron más el servicio los días martes, miércoles y jueves.
+<br/>
+Los usuarios casuales utilizaron más el servicio los fines de semana.
 
 ### Promedio de Duración de Viajes
 ![promedio_duracion_dia](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_duracion_promedio_dia_tipo_usuario.png)
