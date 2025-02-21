@@ -20,6 +20,7 @@
 
 ## Introducción
 En 2016, Cyclistic lanzó una exitosa oferta de bicicletas compartidas, que creció hasta contar con 5,824 bicicletas georreferenciadas en 692 estaciones en Chicago. El sistema permite desbloquear bicicletas en una estación y devolverlas en cualquier otra. Su estrategia de marketing se ha enfocado en el reconocimiento de marca y atraer a diversos consumidores mediante planes de precios flexibles, como pases de un solo viaje, de día completo y membresías anuales. Los analistas de Cyclistic concluyeron que los miembros anuales son más rentables que los ciclistas ocasionales, quienes usan los pases de un solo viaje o de día completo.
+
 ## Objetivo
 Identificar en qué se diferencian los socios anuales y los ciclistas ocasionales con respecto al uso de las bicicletas de Cyclistic.
 ## Fuentes de Datos
@@ -31,15 +32,33 @@ En el sitio de descarga, se buscan los archivos comprimidos con la convención d
 - BigQuery - Procesamiento de datos, análisis de datos
 - Google Sheets - Análisis de datos
 - Tableau - [Visualización de datos](https://public.tableau.com/app/profile/luis.mart.nez1450/viz/GooglecapstoneprojectCyclistic/Dashboard1)
+
 ## Análisis de Datos
+
 ### Estadísticas Anuales
+
 #### Totales
+![kpi_total](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_kpi_total.png)
+<br/>
+![bar_plot_totales](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_cantiad_total_viajes_tipo_usuario.png)
+
 #### Usuarios Miembros
+![kpi_miembros](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_kpi_miembros.png)
+
 #### Usuarios Casuales
+![kpi_csuales](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_kpi_casuales.png)
+
 ### Uso Anual del Servicio
+![uso_anual](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_cantidad_viajes_fecha_tipo_usuario.png)
+
 ### Promedio de Viajes por Día
+![promedio_viajes_dia](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_promedio_viajes_dia_tipo_usuario.png)
+
 ### Promedio de Duración de Viajes
+![promedio_duracion_dia](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_duracion_promedio_dia_tipo_usuario.png)
+
 ## Hallazgos
+
 ## Recomendaciones
 De acuerdo a los hallazgos encontrados en el periodo junio de 2023 - mayo de 2024 se recomiendan las siguientes acciones:
 - a
