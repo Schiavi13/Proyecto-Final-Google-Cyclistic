@@ -51,15 +51,18 @@ Aproximadamente 1/3 del total de viajes los realizaron usuarios casuales.
 #### Usuarios Casuales
 ![kpi_csuales](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_kpi_casuales.png)
 <br/>
+<br/>
 En promedio, los viajes de usuarios casuales fueron el doble de extensos que los viajes de los usuarios miembros.
 
 ### Uso Anual del Servicio
 ![uso_anual](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_cantidad_viajes_fecha_tipo_usuario.png)
 <br/>
+<br/>
 El 50.9% de los viajes de los usuarios casuales se realizaron durante el verano (Norteamérica).
 
 ### Promedio de Viajes por Día
 ![promedio_viajes_dia](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_promedio_viajes_dia_tipo_usuario.png)
+<br/>
 <br/>
 Los usuarios miembros utilizaron más el servicio los días martes, miércoles y jueves.
 <br/>
@@ -67,12 +70,20 @@ Los usuarios casuales utilizaron más el servicio los fines de semana.
 
 ### Promedio de Duración de Viajes
 ![promedio_duracion_dia](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_duracion_promedio_dia_tipo_usuario.png)
+<br/>
+<br/>
+La duración de los viajes realizados por usuarios miembros fueron más cortas que los usuarios casuales.
+<br/>
+La duración de los viajes de usuarios casuales aumentó significativamente los fines de semana.
 
 ## Hallazgos
+- Los usuarios casuales Hacen mayor uso del servicio durante el verano y los días cercanos.
+- Los usuarios casuales utilizan más el servicio los fines de semana.
+- La duración de los viajes de los usuarios casuales es más extensa que la de los usuarios miembros.
+- La duración de los viajes de todos los usuarios aumenta los fines de semana, en especial para los usuarios casuales.
 
 ## Recomendaciones
 De acuerdo a los hallazgos encontrados en el periodo junio de 2023 - mayo de 2024 se recomiendan las siguientes acciones:
-- a
-- b
-- c
+- Promocionar las suscripciones anuales en mayo con alguna oferta de descuento, aprovechando el aumento en viajes de usuarios casuales en verano.
+- Aumentar ligeramente el precio de los alquileres los días sábado y domingo, apuntar a un precio que motive a los usuarios casuales a adquirir la membresía y que no desmotive el uso completo del servicio.
 
