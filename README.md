@@ -43,7 +43,7 @@ En el sitio de descarga, se buscan los archivos comprimidos con la convención d
 ![bar_plot_totales](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_cantiad_total_viajes_tipo_usuario.png)
 <br/>
 <br/>
-Aproximadamente 1/3 del total de viajes los realizaron usuarios casuales.
+Desde junio de 2023 a mayo de 2024 los viajes de los usuarios casuales representaron el 35.15% del total de los viajes, es decir, aproximadamente 1 de cada 3 viajes lo realiza un usuario casual.
 
 #### Usuarios Miembros
 ![kpi_miembros](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_kpi_miembros.png)
@@ -64,17 +64,22 @@ El 50.9% de los viajes de los usuarios casuales se realizaron durante el verano 
 ![promedio_viajes_dia](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_promedio_viajes_dia_tipo_usuario.png)
 <br/>
 <br/>
-Los usuarios miembros utilizaron más el servicio los días martes, miércoles y jueves.
-<br/>
-Los usuarios casuales utilizaron más el servicio los fines de semana.
+Si bien la cantidad total de viajes aumenta hacia el sábado, los usuarios miembros tienen su pico de actividad los días martes, miércoles y jueves, mientras que los usuarios casuales tienen como pico los fines de semana.
 
 ### Promedio de Duración de Viajes
+```
+SELECT day_of_week AS dia_n, FORMAT_DATETIME('%A', started_at) AS dia,
+FLOOR(AVG(ride_length/60)) AS promedio_minutos, FLOOR((AVG(ride_length/60)-FLOOR(AVG(ride_length/60)))*60) AS p_segundos,
+FLOOR(MAX(ride_length/60)) AS max_minutos, FLOOR((MAX(ride_length/60)-FLOOR(MAX(ride_length/60)))*60) AS max_segundos, 
+FLOOR(MIN(ride_length/60)) AS min_minutos, FLOOR((MIN(ride_length/60)-FLOOR(MIN(ride_length/60)))*60) AS min_segundos
+FROM `capstone_project_data.consolidado_junio2023_mayo2024_transformed`
+GROUP BY dia_n, dia
+ORDER BY dia_n, dia;
+```
 ![promedio_duracion_dia](https://github.com/Schiavi13/Proyecto-Final-Google-Cyclistic/blob/main/Assets/Imagenes/viz_duracion_promedio_dia_tipo_usuario.png)
 <br/>
 <br/>
-La duración de los viajes realizados por usuarios miembros fueron más cortas que los usuarios casuales.
-<br/>
-La duración de los viajes de usuarios casuales aumentó significativamente los fines de semana.
+La duración de los viajes realizados por usuarios miembros fueron más cortas que los usuarios casuales y aumentó significativamente los fines de semana.
 
 ## Hallazgos
 - Los usuarios casuales Hacen mayor uso del servicio durante el verano y los días cercanos.
